@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "react-currency-format": "^1.1.0",
     "react-router-dom": "^6.4.0"
   }
 }
