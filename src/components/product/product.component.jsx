@@ -1,5 +1,5 @@
 import React from "react";
-import "./Product.css";
+import "./product.styles.css";
 
 function Product({id, title, image, price, rating}) {
     return (

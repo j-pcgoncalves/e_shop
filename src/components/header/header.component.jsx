@@ -1,10 +1,10 @@
 import React from "react";
-import "./Header.css";
+import "./header.styles.css";
 import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
 import StorefrontIcon from '@mui/icons-material/Storefront';
 import SearchIcon from '@mui/icons-material/Search';
 
-function Header() {
+const Header = () => {
     return (
       <div className="header">
         <div className="header__logo">
