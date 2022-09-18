@@ -13,6 +13,7 @@ const Checkout = () => {
                         Your Shopping Basket:
                     </h2>
                     <CheckoutProduct />
+                    <CheckoutProduct />
                 </div>
             </div>
 
