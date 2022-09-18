@@ -24,6 +24,7 @@
   }
   
   .product > button {
+    cursor: pointer;
     background: #ff9f00;
     border: 1px solid;
     margin-top: 10px;
